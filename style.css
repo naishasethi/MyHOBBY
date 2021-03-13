@@ -1,0 +1,32 @@
+img {
+  width:200px;
+    height: 200px;
+}
+body {
+  text-align:center;
+}
+#Hobby {
+  background:linear-gradient(#00fbff 0%, #ff00c8 100%);
+}
+.links { 
+float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    font-family: 'Oi', cursive;
+    font-size: 15px;
+}
+    .links:hover {
+    background-color:deeppink;
+}
+    #Work {
+         background:linear-gradient(#ff0000 0%, #ffffff 100%);
+    }
+    #Iwork {
+         background:linear-gradient(#1500ff 0%, #a200ff 100%);
+}
+    #Contacts {
+        background:linear-gradient(#ff00e1 0%, #ffffff 100%);
+    }
